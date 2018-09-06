@@ -1,0 +1,13 @@
+#Wed Sep 05 16:40:05 BRT 2018
+path.3=classes.dex
+path.2=classes.dex
+path.1=classes.dex
+path.0=classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.3=/home/raphael/Dropbox/Dropbox/trabalho/disciplinas/LabMovel/2018.2/LabMovel-2018.2/Material de aula/Aula04/GeoQuiz/app/build/intermediates/transforms/dexMerger/debug/82
+base.2=/home/raphael/Dropbox/Dropbox/trabalho/disciplinas/LabMovel/2018.2/LabMovel-2018.2/Material de aula/Aula04/GeoQuiz/app/build/intermediates/transforms/dexMerger/debug/79
+base.1=/home/raphael/Dropbox/Dropbox/trabalho/disciplinas/LabMovel/2018.2/LabMovel-2018.2/Material de aula/Aula04/GeoQuiz/app/build/intermediates/transforms/dexMerger/debug/80
+base.0=/home/raphael/Dropbox/Dropbox/trabalho/disciplinas/LabMovel/2018.2/LabMovel-2018.2/Material de aula/Aula04/GeoQuiz/app/build/intermediates/transforms/dexMerger/debug/81

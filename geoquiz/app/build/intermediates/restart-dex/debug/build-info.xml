@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="ldpi"
+    format="7"
+    timestamp="448410024686172"
+    token="8779279630066837429" >
+
+    <task
+        name="javac"
+        duration="2827" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1757" />
+    <task
+        name="verifier"
+        duration="349" />
+
+    <artifact
+        location="C:\Users\rapha\Dropbox\Dropbox\trabalho\disciplinas\LabMovel\2017.1\LabMovel-2017.1\Material de aula\Aula04\GeoQuiz\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="448410024686172" >
+        <artifact
+            location="C:\Users\rapha\Dropbox\Dropbox\trabalho\disciplinas\LabMovel\2017.1\LabMovel-2017.1\Material de aula\Aula04\GeoQuiz\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
